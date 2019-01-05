@@ -67,6 +67,9 @@ input, select, textarea {
 	appearance: none;
 }
 
+.signup-container {
+	padding: 10px;
+}
 /* Basic */
 
 	@-ms-viewport {
@@ -3970,4 +3973,13 @@ input, select, textarea {
 
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
+	}
+	.mt80{
+		margin-top: 80px;
+	}
+	.mb80{
+		margin-bottom: 80px;
+	}
+	.mr60{
+		margin-right: 60px;
 	}
